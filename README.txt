@@ -19,10 +19,10 @@ combinant les dimensions topographique, pédologique et climatique.
 │   ├── stats_agri.ipynb              # Statistiques descriptives et ANOVA par région et culture
 │   └── tiff_to_png_for_shiny.ipynb   # Conversion GeoTIFF → PNG pour l'application Shiny
 ├── app/
-│   ├── rasters            		   # Rasters de reference avec valeurs exactes
-│   ├── www            			   # PNG à afficher dynamiquement dans l'app
-│   └── app.R            			   # Application de visualisation interactive (R / Shiny)    
-└── PDMe_GonzalezMikael.pdf    		   # Justifications scientifiques, calculs et sources
+│   ├── rasters            		        # Rasters de reference avec valeurs exactes
+│   ├── www            			          # PNG & JSON à afficher dynamiquement dans l'app
+│   └── app.R            			        # Application de visualisation interactive (R / Shiny)    
+└── PDMe_GonzalezMikael.pdf    		    # Justifications scientifiques, calculs et sources
 ```
 
 ## Pipeline
